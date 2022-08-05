@@ -1,0 +1,18 @@
+Windows 		Unix
+			
+cd			cd
+dir			Is
+mkdir			mkdir
+del/rmdir		rm rf
+
+***********************************************
+
+
+primeiros comandos
+
+git init (inicia o repositorio)
+git add  (adiciona o arquivo que será modificado)
+git commit (carrega os arquivos modificados)
+-a (lista pastas ocultas)
+
+
